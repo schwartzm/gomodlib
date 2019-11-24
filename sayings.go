@@ -7,7 +7,7 @@ func Happy() string {
 }
 
 func Sad() string {
-	return "My pet cat is very sick."
+	return "My cat ate a Lego brick."
 }
 
 func Joyous() string {
