@@ -1,4 +1,4 @@
-package gomodlib
+ackage gomodlib
 
 import "rsc.io/quote"
 
@@ -11,7 +11,7 @@ func Sad() string {
 }
 
 func Joyous() string {
-	return "We won the playoff game."
+	return "For Christmas, I got the Metal Beards Sea Cow Lego set."
 }
 
 func Mad() string {
