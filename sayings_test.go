@@ -10,14 +10,14 @@ func TestHappy(t *testing.T) {
 }
 
 func TestSad(t *testing.T) {
-	want := "My pet cat is very sick."
+	want := "My cat ate a Lego brick."
 	if got := Sad(); got != want {
 		t.Errorf("Sad() = %q, want %q", got, want)
 	}
 }
 
 func TestJoyous(t *testing.T) {
-	want := "We won the playoff game."
+	want := "For Christmas, I got the Metal Beards Sea Cow Lego set."
 	if got := Joyous(); got != want {
 		t.Errorf("Joyous() = %q, want %q", got, want)
 	}

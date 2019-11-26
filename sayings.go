@@ -1,4 +1,4 @@
-ackage gomodlib
+package gomodlib
 
 import "rsc.io/quote"
 
